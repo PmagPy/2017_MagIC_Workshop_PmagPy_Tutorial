@@ -1,0 +1,16 @@
+tab 	magic_methods
+magic_method_code
+FS-FD
+SO-POM
+SO-CMD-NORTH
+LT-NO
+LP-DIR-AF
+LT-AF-Z
+LT-LT-Z
+LP-DIR
+T-NO
+DA-DIR-GEO
+DE-BFL
+LP-DC4
+DE-FM
+DE-POLE
